@@ -1,0 +1,65 @@
+/* ============= */
+/* GENERAL SETUP */
+/* ============= */
+
+
+body {
+    background-color: rgb(92, 92, 92);
+    margin: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#page-header {
+    text-align: center;
+}
+
+
+/* ========== */
+/* CONTAINERS */
+/* ========== */
+
+
+/* Container holding the craft & item grids */
+#app-container {
+    display: flex;
+    border: 5px white solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* Container holding the 81 crafting nodes */
+#craft-container {
+
+}
+
+/* Container holding the dynamic item elements */
+#item-container {
+
+}
+
+
+/* ===== */
+/* NODES */
+/* ===== */
+
+
+/* Overarching class dealing with general node structure */
+.node {
+
+}
+
+/* Item nodes for the 9x9 */
+.component-node {
+
+}
+
+/* Item nodes for the item container */
+.item-node {
+
+}
